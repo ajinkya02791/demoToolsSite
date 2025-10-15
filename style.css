@@ -71,6 +71,7 @@ a {
     font-size: large;
     font-weight: 700;
     border-radius: 11%;
+    cursor: pointer;
 }
 
 /* This is Middle Section of site, Contains Tool Infromation */
