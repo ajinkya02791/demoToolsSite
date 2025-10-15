@@ -46,11 +46,11 @@ a {
     margin: 30px 20px;
 }
 
-.introImage {
+/* .introImage {
     width: 500px;
     height: 200px;
     background-color: cadetblue;
-}
+} */
 
 .introText {
     display: flex;
